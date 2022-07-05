@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [booster app](https://cyf-booster.herokuapp.com/)
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **aws**
 
 - 💬 Ask me about **react**
 
